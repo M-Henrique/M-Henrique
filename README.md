@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.rocketseat.com.br/me/matheus-silva-05704"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheus-silva-05704&type=card" width="280" alt="Matheus Henrique Osório Silva's Rocket ID"/></a>
+<div style="width:100%;display:flex;justify-content:center">
+  <a href="https://app.rocketseat.com.br/me/matheus-silva-05704"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheus-silva-05704&type=card" width="280" alt="Matheus Henrique Osório Silva's Rocket ID"/></a>
+</div>
