@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **M-Henrique/M-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width:100%;display:flex;justify-content:center">
+<p align="center">
   <a href="https://app.rocketseat.com.br/me/matheus-silva-05704"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheus-silva-05704&type=card" width="280" alt="Matheus Henrique Osório Silva's Rocket ID"/></a>
-</div>
+</p>
+
